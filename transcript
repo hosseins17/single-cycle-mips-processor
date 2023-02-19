@@ -1,0 +1,40 @@
+# Reading pref.tcl
+# OpenFile C:/Users/Emertat/Desktop/CA2/codes/controller.v
+project open C:/Users/Emertat/Desktop/CA2/codes/ca2
+# Loading project ca2
+# Compile of adder_32b.v was successful.
+# Compile of alu.v was successful.
+# Compile of alu_controller.v was successful.
+# Compile of controller.v was successful.
+# Compile of data_mem.v was successful.
+# Compile of datapath.v was successful.
+# Compile of inst_mem.v was successful.
+# Compile of mips_single_cycle.v was successful.
+# Compile of mips_tb.v was successful.
+# Compile of mux2to1_5b.v was successful.
+# Compile of mux2to1_32b.v was successful.
+# Compile of mux3to1_32b.v was successful.
+# Compile of reg_32b.v was successful.
+# Compile of reg_file.v was successful.
+# Compile of shl2.v was successful.
+# Compile of sign_ext.v was successful.
+# 16 compiles, 0 failed with no errors.
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project 243
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project ca3
+# Compile of alu.v was successful.
+# Compile of alu_controller.v was successful.
+# Compile of controller.v was successful.
+# Compile of datapath.v was successful.
+# Compile of memory.v was successful.
+# Compile of mips_multi_cycle.v was successful.
+# Compile of mips_tb.v was successful.
+# Compile of mux2to1_5b.v was successful.
+# Compile of mux2to1_32b.v was successful.
+# Compile of mux4to1_32b.v was successful.
+# Compile of reg_32b.v was successful.
+# Compile of reg_file.v was successful.
+# Compile of shl2.v was successful.
+# Compile of sign_ext.v was successful.
+# 14 compiles, 0 failed with no errors.

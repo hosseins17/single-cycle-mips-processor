@@ -1,0 +1,113 @@
+C:/Users/Emertat/Desktop/CA2/codes/reg_32b.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/reg_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b
+
+Top level modules:
+	reg_32b
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/inst_mem.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/adder_32b.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/adder_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_32b
+
+Top level modules:
+	adder_32b
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/mux2to1_5b.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/mux2to1_5b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_5b
+
+Top level modules:
+	mux2to1_5b
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/mux3to1_32b.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/mux3to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_32b
+
+Top level modules:
+	mux3to1_32b
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/shl2.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/shl2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2
+
+Top level modules:
+	shl2
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/controller.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/reg_file.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/alu_controller.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/alu_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/mips_tb.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/mips_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/mux2to1_32b.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/mux2to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_32b
+
+Top level modules:
+	mux2to1_32b
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/datapath.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/data_mem.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/sign_ext.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/sign_ext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/mips_single_cycle.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/mips_single_cycle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_single_cycle
+
+Top level modules:
+	mips_single_cycle
+
+} {} {}} C:/Users/Emertat/Desktop/CA2/codes/alu.v {1 {vlog -work work -stats=none C:/Users/Emertat/Desktop/CA2/codes/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
